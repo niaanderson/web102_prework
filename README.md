@@ -35,7 +35,7 @@ GIF created with Loom
 
 ## Notes
 
-Understanding '?' .
+Understanding '?'.
 
 ## License
 
